@@ -1,0 +1,25 @@
+Rule,Count
+Missing cells,28
+Rows with missing required values,8
+Infinite values,0
+Rows with non-finite required values,8
+Invalid transaction IDs,0
+Invalid days,0
+Invalid quantities,4
+Invalid prices,2
+Invalid costs,2
+Invalid discounts,4
+Invalid stock,0
+Invalid ratings,3
+Invalid integer values,0
+Invalid outlet IDs,2
+Invalid product codes,0
+Invalid category codes,0
+Invalid payment codes,0
+Invalid product-category combinations,3
+Rows with duplicate transaction IDs,8
+Valid records,4964
+Suspicious records,36
+Invalid ratings changed to NaN,3
+Suspicious rows retained for investigation,36
+Rows in cleaned dataset,5000
